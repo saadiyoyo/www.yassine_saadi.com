@@ -1,0 +1,32 @@
+.fa-instagram{
+    color: rgb(251, 0, 255);
+    font-size: 50px;
+}
+.fa-tiktok{
+    color: rgb(39, 13, 62);
+    font-size: 40px;
+}
+.fa-facebook{
+    color: blue;
+    font-size: 50px;
+}
+.ta3rif{
+    position: relative;
+    left: 320px;
+    bottom: 500px;
+}
+h1{
+    color: rgb(12, 62, 171);
+}
+.moi{
+    height: 200px;
+    width: 300px;
+}
+.contact{
+    position: relative;
+    bottom: 200px;
+    
+}
+body{
+    background-image: url(wallpaper.jpg);
+}
